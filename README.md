@@ -16,3 +16,10 @@ Show photos from Albums
 Premier League 2019/20 team data
 - https://www.djamware.com/post/5dde48a430ca212bd263b1b6/angular-8-tutorial-how-to-create-an-angular-web-app-quickly
 - inlcuded GoogleMaps API
+
+## angular8-crud
+Add, Edit and Delete Products /with MongoDB
+- https://www.djamware.com/post/5d0eda6f80aca754f7a9d1f5/angular-8-tutorial-learn-to-build-angular-8-crud-web-app
+- terminal1: ng build --prod | ng serve
+- terminal2: mongod | nodemon
+- MongoDB app https://www.djamware.com/post/58a91cdf80aca748640ce353/how-to-create-rest-api-easily-using-nodejs-expressjs-mongoosejs-and-mongodb
