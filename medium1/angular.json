@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "medium1"
+    }
+  },
+  "defaultProject": "medium1",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
